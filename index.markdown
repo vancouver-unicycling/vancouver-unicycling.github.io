@@ -1,7 +1,5 @@
 ---
 layout: single
-author: TheAuthor
-author_profile: true
 sidebar:
   nav: "lenker"
 ---
