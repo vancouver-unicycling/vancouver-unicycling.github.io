@@ -9,8 +9,9 @@ sidebar:
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vanuni-header-image.jpg)
 {: .full}
 
+{:.text-center}
+# A group for anyone interested in learning how to unicycle
 
-A group for anyone interested in learning how to unicycle
 Hello and welcome to VanUni!
 
 We are a group of folks passionate about unicycling. If you are interested in learning, or looking to ride with other unicyclists in the Greater Vancouver Area, then look no further!
